@@ -39,7 +39,7 @@ Desenvolvedor JavaScript</p>
 <details><summary><b>Semana 2
  </b></summary>
 
-**[Semana 2](./semana-2/README.md)**
+**[Semana 2](./semana-2)**
 
  <p>📚 Introdução à Ciência da
 Computação | Introdução à
