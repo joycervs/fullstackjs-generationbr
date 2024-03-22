@@ -4,7 +4,7 @@ Este repositório é uma compilação de exercícios e projetos que estou desenv
 
 O bootcamp é um programa intensivo de 12 semanas, centrado no desenvolvimento e aprimoramento de habilidades técnicas, resolução de problemas, colaboração, comunicação e aplicação prática do conhecimento em atividades e projetos.
 
-## 🚀 Resources Used
+## 🚀 Recursos Utilizados
 
 <ul>
 
@@ -13,7 +13,7 @@ O bootcamp é um programa intensivo de 12 semanas, centrado no desenvolvimento e
 - ✅ **[Node.js](https://nodejs.org/en/)**
 </ul>
 
-## ✏️ Studies
+## ✏️ Estudos
 
 <details><summary><b>TRILHA ZERO</b></summary>
 <ul>
