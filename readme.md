@@ -1,4 +1,4 @@
-# Bootcamp FullStack JavaScript
+# Bootcamp FullStack JavaScript [turma 04]
 
 Este repositório é uma compilação de exercícios e projetos que estou desenvolvendo durante o bootcamp de Desenvolvimento FullStack JavaScript da [Generation Brasil](https://brazil.generation.org/).
 
