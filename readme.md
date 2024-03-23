@@ -1,10 +1,10 @@
-# Bootcamp FullStack JavaScript
+# Bootcamp FullStack JavaScript [turma 04]
 
 Este repositório é uma compilação de exercícios e projetos que estou desenvolvendo durante o bootcamp de Desenvolvimento FullStack JavaScript da [Generation Brasil](https://brazil.generation.org/).
 
 O bootcamp é um programa intensivo de 12 semanas, centrado no desenvolvimento e aprimoramento de habilidades técnicas, resolução de problemas, colaboração, comunicação e aplicação prática do conhecimento em atividades e projetos.
 
-## 🚀 Resources Used
+## 🚀 Recursos Utilizados
 
 <ul>
 
@@ -13,7 +13,7 @@ O bootcamp é um programa intensivo de 12 semanas, centrado no desenvolvimento e
 - ✅ **[Node.js](https://nodejs.org/en/)**
 </ul>
 
-## ✏️ Studies
+## ✏️ Estudos
 
 <details><summary><b>TRILHA ZERO</b></summary>
 <ul>
@@ -39,7 +39,7 @@ Desenvolvedor JavaScript</p>
 <details><summary><b>Semana 2
  </b></summary>
 
-**[Semana 2](./semana-2/README.md)**
+**[Semana 2](./semana-2)**
 
  <p>📚 Introdução à Ciência da
 Computação | Introdução à
