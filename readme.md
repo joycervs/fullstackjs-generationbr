@@ -9,6 +9,7 @@ O bootcamp é um programa intensivo de 12 semanas, centrado no desenvolvimento e
 <ul>
 
 - ✅ **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript)**
+- ✅ **[TypeScript](https://www.typescriptlang.org/)**
 - ✅ **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-14034-gllemos)**
 - ✅ **[Node.js](https://nodejs.org/en/)**
 </ul>
@@ -64,6 +65,33 @@ Programação JavaScript</p>
 <li> Ética na Indústria de Desenvolvimento Web</li>
 <li>Responsabilidade Pessoal</li>
 <li>Comunicação Não Violenta</li>
+
+</ul>
+<br>
+</details>
+
+<details><summary><b>Semana 3
+ </b></summary>
+
+**[Semana 3](./semana-3)**
+ <p>📚Introdução ao Personal Pitch</p>
+ <p>📚Introdução ao TypeScript</p>
+ <p>📚 Programação orientada a objetos: Fundamentos</p>
+
+<ul>
+[ TYPESCRIPT ]
+<br>
+<li>Introdução ao TypeScript.</li>
+<li>Estrutura e Entrada de Dados.</li>
+<li>Funções e Métodos.</li>
+<li>Classes, Objetos e Encapsulamento.</li>
+<li>Herança e Polimorfismo.</li>
+<li>Classes Abstratas.</li>
+<li>Interfaces.</li>
+<li>Collections.</li>
+<br>
+ 
+💻 [Projeto Conta Bancária](https://github.com/joycervs/contaBancaria-GenBr)
 
 </ul>
 <br>
