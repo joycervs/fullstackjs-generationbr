@@ -21,5 +21,5 @@ values("Teclado mecânico RGB", "Teclado", 300, "Periférico"),
 select * from tb_produtos where preco > 500;
 select * from tb_produtos where preco < 500;
 
-update tb_produtos set preco = 500 where id = 1;
+update tb_produtos set preco = 500 
 
