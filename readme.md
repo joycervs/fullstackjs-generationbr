@@ -131,8 +131,6 @@ Programação JavaScript</p>
 
 <details><summary><b>Semana 6</b></summary>
 
-**[Semana 6](./semana-6)**
-
  <p>📚 Backend - Nest JS</p>
 
 <ul>
@@ -149,8 +147,6 @@ Programação JavaScript</p>
 
 <details><summary><b>Semana 7
  </b></summary>
-
-**[Semana 7](./semana-7)**
  
 
 </details>
