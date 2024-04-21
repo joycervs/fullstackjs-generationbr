@@ -25,6 +25,7 @@ O bootcamp é um programa intensivo de 12 semanas, centrado no desenvolvimento e
 </ul>
 </details>
 <details><summary><b>BLOCO 1</b></summary>
+<br>
 <ul>
 <details><summary><b> Semana 1</b></summary>
 <p>📚 Soft Skills | Introdução ao Papel de
@@ -92,7 +93,6 @@ Programação JavaScript</p>
 <li>Classes Abstratas.</li>
 <li>Interfaces.</li>
 <li>Collections.</li>
-<li>Exceptions.</li>
 <li>Arrow Functions.</li>
 <br>
  
@@ -107,6 +107,13 @@ Programação JavaScript</p>
 **[Semana 4](./semana-4)**
  <p>📚Estrutura de Dados</p>
  
+<ul>
+ [ TYPESCRIPT ]
+<br>
+ <li>Tratamento de Erros em JavaScript: Exceptions.</li>
+ <li>Teste Técnico 1.</li>
+ <li>Revisão Bloco 1.</li>
+ 
 </details>
 </ul>
 </details>
@@ -114,7 +121,7 @@ Programação JavaScript</p>
 
 <details><summary><b>BLOCO 2</b></summary>
 <ul>
- 
+<br>
 <details><summary><b> Semana 5</b></summary>
  
  **[Semana 5](./semana-5)**
@@ -124,21 +131,27 @@ Programação JavaScript</p>
 <li>Introdução a Banco de Dados com MySQL.</li>
 <li>Banco de Dados Relacional.</li>
 <li>Diagrama Entidade Relacionamento (DER) no MySQL Workbench.</li>
-</ul>
+<li>DDL com MySQL</li>
 <br>
+  [ SOFT SKILLS ]
+<li>Aperfeiçoamento do Seu Currículo</li>
+</ul>
 </details>
 
 
 <details><summary><b>Semana 6</b></summary>
-
+<br>
  <p>📚 Backend - Nest JS</p>
 
 <ul>
 <li>Introdução ao NestJS.</li>
 <li>Introdução ao TypeORM.</li>
+<li>REST API com Nest</li>
 <li>Projeto Blog Pessoal.</li>
-<li>Operadores Lógicos.</li>
-<li>Laços Condicionais.</li>
+<br>
+[ SOFT SKILLS ]
+<li>Gestão Financeira</li>
+<li>Planejamento para o Crescimento e Desenvolvimento da Carreira.</li>
 <br>
  
 💻 [Projeto Blog Pessoal](https://github.com/joycervs/blogPessoal-GenBr)
