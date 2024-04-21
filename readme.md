@@ -12,6 +12,9 @@ O bootcamp é um programa intensivo de 12 semanas, centrado no desenvolvimento e
 - ✅ **[TypeScript](https://www.typescriptlang.org/)**
 - ✅ **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-14034-gllemos)**
 - ✅ **[Node.js](https://nodejs.org/en/)**
+- ✅ **[MySQL Workbench](https://www.mysql.com/)**
+- ✅ **[NestJS](https://nestjs.com/)**
+  
 </ul>
 
 ## ✏️ Estudos
@@ -89,12 +92,67 @@ Programação JavaScript</p>
 <li>Classes Abstratas.</li>
 <li>Interfaces.</li>
 <li>Collections.</li>
+<li>Exceptions.</li>
+<li>Arrow Functions.</li>
 <br>
  
 💻 [Projeto Conta Bancária](https://github.com/joycervs/contaBancaria-GenBr)
 
 </ul>
 <br>
+</details>
+<details><summary><b>Semana 4
+ </b></summary>
+ 
+**[Semana 4](./semana-4)**
+ <p>📚Estrutura de Dados</p>
+ 
+</details>
+</ul>
+</details>
+
+
+<details><summary><b>BLOCO 2</b></summary>
+<ul>
+ 
+<details><summary><b> Semana 5</b></summary>
+ 
+ **[Semana 5](./semana-5)**
+ 
+<p>📚 Banco de Dados - MySQL</p>
+<ul>
+<li>Introdução a Banco de Dados com MySQL.</li>
+<li>Banco de Dados Relacional.</li>
+<li>Diagrama Entidade Relacionamento (DER) no MySQL Workbench.</li>
+</ul>
+<br>
+</details>
+
+
+<details><summary><b>Semana 6</b></summary>
+
+**[Semana 6](./semana-6)**
+
+ <p>📚 Backend - Nest JS</p>
+
+<ul>
+<li>Introdução ao NestJS.</li>
+<li>Introdução ao TypeORM.</li>
+<li>Projeto Blog Pessoal.</li>
+<li>Operadores Lógicos.</li>
+<li>Laços Condicionais.</li>
+<br>
+ 
+💻 [Projeto Blog Pessoal](https://github.com/joycervs/blogPessoal-GenBr)
+
+</details>
+
+<details><summary><b>Semana 7
+ </b></summary>
+
+**[Semana 7](./semana-7)**
+ 
+
 </details>
 
 </ul>
