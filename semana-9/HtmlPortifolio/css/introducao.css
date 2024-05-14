@@ -1,0 +1,47 @@
+
+.introducao{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  margin-top: 100px;
+  margin-bottom: 200px;
+  font-weight: 400;
+}
+
+.introducao h1{
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 0.5rem;
+  margin-bottom: 15px;
+  position: relative;
+}
+
+.introducao span{
+  font-size: 0.95rem;
+  color: var(--roxo-escuro);
+}
+
+.introducao p{
+  font-size: 1.25rem;
+  margin-top: 5px;
+  line-height: 1.5rem ;
+  margin-bottom: 30px;
+  justify-content: center;
+  text-align: center;
+  max-width: 400px;
+  flex-wrap: wrap;
+}
+
+.introducao-conteudo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+} 
+
+.introducao img{
+  width: 300px;
+}
+

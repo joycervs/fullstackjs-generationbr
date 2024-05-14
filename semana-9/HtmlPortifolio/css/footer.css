@@ -1,0 +1,8 @@
+.footer-bg{
+  display: flex;
+  justify-content: center;
+  padding: 32px;
+  color: white;
+  background-color: var(--roxo-claro);
+  font-weight: 600;
+}

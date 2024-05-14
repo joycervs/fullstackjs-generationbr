@@ -1,0 +1,31 @@
+.header-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 32px;
+  color: white;
+  background-color: var(--roxo-claro);
+
+}
+
+.header-menu{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+ align-items: center;
+}
+
+.header-menu a{
+  color: var(--branco);
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.header-menu a:hover{
+  color: var(--roxo-escuro);
+  transition: 0.3ms;
+}
+
+.header-container h1{
+  font-size: 25px;
+}

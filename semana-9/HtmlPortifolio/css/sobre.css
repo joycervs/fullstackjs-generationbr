@@ -1,0 +1,45 @@
+.sobre{
+  display: flex;
+  margin-top: 100px;
+  margin-bottom: 200px;
+  align-items: center;
+  background-color: var( --branco);
+  border-radius: 8px;
+  border: 5px solid var(--roxo-escuro);
+  font-weight: 400;
+}
+
+.sobre h2{
+  font-size: 1.5rem;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.sobre img{
+  max-width: 400px;
+  border-radius: 50%;
+  margin: 15px
+}
+
+.sobre-conteudo{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.sobre-conteudo p {
+  margin: 16px;
+  max-width: 500px;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.git{
+  display: flex;
+  flex-direction: row;
+}
+
+.sobre .botao{
+  width: 100px;
+}
