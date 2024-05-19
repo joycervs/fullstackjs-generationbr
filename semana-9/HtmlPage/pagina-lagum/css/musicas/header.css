@@ -1,0 +1,51 @@
+.header-container{
+  display: flex;
+  padding: 1rem 2rem;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  background: var(--v1);
+  color: var(--night);
+}
+
+
+.titulo{
+  display: flex;
+  align-items: center;
+}
+
+.logo{
+  padding: 16px;
+}
+
+.logo img{
+  width: 32px;
+}
+
+.header-container h1, span{
+  font-weight: 600;
+}
+
+
+.header-container a {
+  padding: 1rem;
+  font-size: 16px;
+  font-weight: 600;
+
+  color: var(--night);
+}
+
+.header-menu{
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+  text-transform: uppercase;
+}
+
+.header-menu a:hover{
+  transition: 0.3ms;
+ color: #fff;
+}
+
+

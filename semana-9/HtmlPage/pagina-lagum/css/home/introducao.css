@@ -1,0 +1,46 @@
+.intro{
+  max-width: 1800px;
+  padding: 2rem;
+  margin: 2.75rem;
+  justify-content: space-between;
+  color: var(--night);
+}
+
+.introducao-container{
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+}
+
+
+.introducao-container img{
+width: 600px;
+border-radius: 8px;
+}
+
+.introducao-container p{
+  line-height: 1.25;
+}
+
+.conteudo{
+  display: flex;
+  flex-direction: column;
+align-items: center;
+}
+
+.botao{
+  display: inline-block;
+  padding: 1rem 2rem;
+  font-weight: 600;
+  margin: 32px;
+  border-radius: 4px; 
+  background-color: var(--v1);
+  color: var(--night);
+}
+
+.botao:hover{
+  transition: 0.3ms;
+  background-color: #348a39;
+}

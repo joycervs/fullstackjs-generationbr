@@ -1,0 +1,58 @@
+.musicas{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  text-align: center;
+  font-weight: 600;
+  box-sizing: border-box;
+}
+
+.musicas h2{
+  padding: 2rem;
+
+}
+
+.list{
+display: flex;
+justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  padding: 32px;
+}
+
+.list a{
+  display: inline-block;
+  color: var(--night);
+  padding: 1rem;
+  margin: 20px;
+  gap: 10px;
+  border-radius: 8px;
+}
+
+.list a:hover{
+  border: 2px solid var(--v1);
+  transition: 0.3ms;
+}
+
+.seje{
+  align-items:center ;
+  justify-content: center;
+}
+
+.seje img{
+  padding: 0.25rem;
+}
+
+footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  padding: 2rem;
+  gap: 10px;
+  background: var(--v1);
+  color: var(--night);
+}
+

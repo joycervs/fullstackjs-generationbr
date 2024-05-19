@@ -1,0 +1,48 @@
+.integrantes{
+  max-width: 1800px;
+  justify-content: space-between;
+  background-color: var(--blue);
+  color: var(--night);
+  margin-bottom: 100px;
+  background-color: #46AF4B;
+  
+}
+
+.integrantes-container{
+  padding: 2rem;
+}
+
+.integrantes-container p{
+  text-align: center;
+  font-size: 1rem;
+  padding: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.integrantes h2{
+  font-size: 2.5rem;
+  margin: 1rem;
+  padding: 16px;
+}
+
+.integrantes ul{
+  display: flex;
+align-items: center;
+  width: 100%;
+  gap: 2rem;
+}
+
+.integrantes ul li{
+  display: inline-block;
+  width: 100%;
+
+}
+
+.integrantes img{
+  max-width:300px;
+  max-height:300px;
+  width: auto;
+  height: auto;
+  border-radius: 50%;
+}
