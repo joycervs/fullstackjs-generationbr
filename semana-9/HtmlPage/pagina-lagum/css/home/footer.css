@@ -1,4 +1,4 @@
-/* footer{
+footer{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -6,4 +6,4 @@
   padding: 1rem;
   background: var(--v1);
   color: var(--night);
-} */
+}

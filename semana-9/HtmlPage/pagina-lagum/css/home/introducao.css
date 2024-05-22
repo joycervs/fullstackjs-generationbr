@@ -4,11 +4,11 @@
   margin: 2.75rem;
   justify-content: space-between;
   color: var(--night);
+  flex-wrap: wrap;
 }
 
 .introducao-container{
-
-  display: flex;
+display: flex;
   justify-content: space-between;
   align-items: center;
   gap: 2rem;
@@ -43,4 +43,14 @@ align-items: center;
 .botao:hover{
   transition: 0.3ms;
   background-color: #348a39;
+}
+
+@media(max-width: 600px){
+  .introducao-container{
+    flex-direction: column;
+    width: 300px;
+  }
+  .introducao-container img{
+    width: 400px;
+  }
 }

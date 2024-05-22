@@ -6,6 +6,7 @@
   gap: 10px;
   background: var(--v1);
   color: var(--night);
+  flex-wrap: wrap;
 }
 
 
@@ -26,12 +27,10 @@
   font-weight: 600;
 }
 
-
 .header-container a {
   padding: 1rem;
   font-size: 16px;
   font-weight: 600;
-
   color: var(--night);
 }
 

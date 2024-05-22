@@ -24,6 +24,8 @@ align-items: center;
 
 .galeria ul{
   display: flex;
+  flex-direction: column;
+  align-items: center;
   width: 100%;
   gap: 1rem;
 }
@@ -42,11 +44,11 @@ border-radius: 4px;
 }
 
 .galeria-titulo .logo{
-  padding: 16px;
+  padding: 32px;
 }
 
 .galeria-titulo img{
-  width: 64px;
+  width: 32px;
 }
 
 .galeria h2{
@@ -69,4 +71,10 @@ border-radius: 4px;
   justify-content: center;
   align-items: center;
   background-color: aqua;
+}
+
+.fotos, .fotos2{
+  display: flex;
+  overflow-x: auto;
+  max-width: 800px;
 }

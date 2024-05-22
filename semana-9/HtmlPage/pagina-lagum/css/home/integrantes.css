@@ -1,10 +1,12 @@
 .integrantes{
   max-width: 1800px;
   justify-content: space-between;
+  align-items: center;
   background-color: var(--blue);
   color: var(--night);
   margin-bottom: 100px;
   background-color: #46AF4B;
+  text-align: center;
   
 }
 
@@ -12,15 +14,14 @@
   padding: 2rem;
 }
 
-.integrantes-container p{
-  text-align: center;
+.integrantes-container ul li p{
   font-size: 1rem;
-  padding: 16px;
   font-weight: 600;
   text-transform: uppercase;
 }
 
 .integrantes h2{
+  text-align: start ;
   font-size: 2.5rem;
   margin: 1rem;
   padding: 16px;
@@ -31,6 +32,9 @@
 align-items: center;
   width: 100%;
   gap: 2rem;
+
+  overflow-x: auto;
+
 }
 
 .integrantes ul li{
@@ -40,7 +44,7 @@ align-items: center;
 }
 
 .integrantes img{
-  max-width:300px;
+  max-width:200px;
   max-height:300px;
   width: auto;
   height: auto;
