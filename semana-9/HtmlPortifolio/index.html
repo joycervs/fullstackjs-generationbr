@@ -55,21 +55,24 @@
     </div>
 
     <div class="contato-form">
-    <form class="form">
+    <form id="form" class="form">
       <div class="inputs">
       <div class="input">
       <label for="nome">Nome</label>
-      <input type="text" name="nome" id="nome" placeholder="Digite seu nome">
+      <input type="text" name="nome" id="nome" placeholder="Digite seu nome" onkeyup="validaNome()">
+      <div id="txtNome"></div>
      </div>
      
       <div class="input">
       <label for="email">Email</label>
-      <input type="email" id="email" name="email" placeholder="email@email.com">
+      <input type="email" id="email" name="email" placeholder="email@email.com" onkeyup="validaEmail()">
+      <div id="txtEmail"></div>
       </div>
 
       <div class="input">
        <label for="assunto">Assunto</label>
-      <input type="text" name="assunto" id="assunto" placeholder="Digite o assunto">
+      <input type="text" name="assunto" id="assunto" placeholder="Digite o assunto"  onkeyup="validaAssunto()">
+      <div id="txtAssunto"></div>
       </div>
 
       <div class="input-mensagem">
@@ -78,7 +81,7 @@
       <div>
     </div>
     <div>
-      <button class="botao">Enviar mensagem</button>
+      <button class="botao" onclick="enviar()">Enviar mensagem</button>
     </div>
     </form>
   </section>
